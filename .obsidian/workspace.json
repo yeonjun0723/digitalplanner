@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "89492eaac001f98c",
+    "type": "split",
+    "children": [
+      {
+        "id": "09edd40315be8ddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4591a7124817f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "티처블머신/티처블머신.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fba2c78e10a1a710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "오렌지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec1848ae1d25a99a",
+    "type": "split",
+    "children": [
+      {
+        "id": "471f346496460e44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7bb667905950fef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8569e2c7da577a1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c122f6e30c84059",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4812d99d4c148847",
+    "type": "split",
+    "children": [
+      {
+        "id": "a52c7c93920b5fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cd44eb0e68c2c65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "오렌지.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "642228a8ad8bad06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "오렌지.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a985bc8bbaecfad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff644f27318b5918",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "오렌지.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "fba2c78e10a1a710",
+  "lastOpenFiles": [
+    "스크린샷 2024-03-05 16.05.44.png",
+    "스크린샷 2024-03-05 16.05.10.png",
+    "스크린샷 2024-03-05 16.05.34.png",
+    "스크린샷 2024-03-05 16.05.23.png",
+    "티처블머신/티처블머신.md",
+    "오렌지.md"
+  ]
+}
