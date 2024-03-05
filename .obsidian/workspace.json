@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "오렌지.md",
+                "file": "티처블머신/오렌지.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "오렌지.md",
+                "file": "티처블머신/오렌지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "오렌지.md",
+                "file": "티처블머신/오렌지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "오렌지.md"
+                "file": "티처블머신/오렌지.md"
               }
             }
           }
@@ -159,13 +159,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fba2c78e10a1a710",
+  "active": "e7bb667905950fef",
   "lastOpenFiles": [
     "스크린샷 2024-03-05 16.05.44.png",
     "스크린샷 2024-03-05 16.05.10.png",
     "스크린샷 2024-03-05 16.05.34.png",
     "스크린샷 2024-03-05 16.05.23.png",
     "티처블머신/티처블머신.md",
-    "오렌지.md"
+    "티처블머신/오렌지.md"
   ]
 }
