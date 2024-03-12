@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹 basic/웹의 기본.md",
+                "file": "README/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹 basic/웹의 기본.md",
+                "file": "README/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹 basic/웹의 기본.md",
+                "file": "README/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹 basic/웹의 기본.md"
+                "file": "README/README.md"
               }
             }
           }
@@ -159,21 +159,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "09ced8246d62880d",
+  "active": "e7bb667905950fef",
   "lastOpenFiles": [
-    "DT에 도움을 주는 소프트웨어/레코딩 소프트 웨어.md",
+    "README",
+    "인공지능수업/오렌지.md",
+    "인공지능수업/티처블머신.md",
+    "인공지능수업/Pasted image 20240305123926.png",
+    "README/README.md",
+    "인공지능수업/스크린샷 2024-03-05 16.05.44.png",
+    "인공지능수업/스크린샷 2024-03-05 16.05.10.png",
+    "인공지능수업/스크린샷 2024-03-05 16.05.23.png",
+    "인공지능수업/스크린샷 2024-03-05 16.05.34.png",
+    "인공지능수업/머신러닝.md",
     "웹 basic/웹의 기본.md",
+    "DT에 도움을 주는 소프트웨어/레코딩 소프트 웨어.md",
     "웹 basic",
     "recording",
     "DT에 도움을 주는 소프트웨어",
     "챗지피티 마크다운/컴퓨팅 사고방식.md",
-    "스크린샷 2024-03-05 16.05.10.png",
-    "챗지피티 마크다운",
-    "인공지능수업/머신러닝.md",
-    "인공지능수업/오렌지.md",
-    "인공지능수업/티처블머신.md",
-    "스크린샷 2024-03-05 16.05.44.png",
-    "스크린샷 2024-03-05 16.05.23.png",
-    "스크린샷 2024-03-05 16.05.34.png"
+    "챗지피티 마크다운"
   ]
 }
