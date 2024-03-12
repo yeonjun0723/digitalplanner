@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09ced8246d62880d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹 basic/웹의 기본.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT에 도움을 주는 소프트웨어/레코딩 소프트 웨어.md",
+                "file": "웹 basic/웹의 기본.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DT에 도움을 주는 소프트웨어/레코딩 소프트 웨어.md",
+                "file": "웹 basic/웹의 기본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DT에 도움을 주는 소프트웨어/레코딩 소프트 웨어.md"
+                "file": "웹 basic/웹의 기본.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ac11c9140adeb554",
+  "active": "09ced8246d62880d",
   "lastOpenFiles": [
-    "recording",
     "DT에 도움을 주는 소프트웨어/레코딩 소프트 웨어.md",
+    "웹 basic/웹의 기본.md",
+    "웹 basic",
+    "recording",
     "DT에 도움을 주는 소프트웨어",
     "챗지피티 마크다운/컴퓨팅 사고방식.md",
     "스크린샷 2024-03-05 16.05.10.png",
