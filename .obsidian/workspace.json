@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e00e98850943c999",
+        "id": "0e4ffde50b875fff",
         "type": "tabs",
         "children": [
           {
-            "id": "dc4003b5a00510ed",
+            "id": "e71c5baa83211f61",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "퍼포먼스리포트/무신사 성능보고서.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "퍼포먼스리포트/무신사 성능보고서.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "퍼포먼스리포트/무신사 성능보고서.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "퍼포먼스리포트/무신사 성능보고서.pdf"
+                "file": "무제 폴더/무제 파일.md"
               }
             }
           }
@@ -144,22 +140,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dc4003b5a00510ed",
+  "active": "e7bb667905950fef",
   "lastOpenFiles": [
-    "퍼포먼스리포트/빙 성능보고서.pdf",
-    "퍼포먼스리포트/네이버 성능보고서.pdf",
+    "mysite/project.mobirise",
+    "mysite/index.html",
+    "mysite/assets/web/assets/mobirise-icons2/mobirise2.woff",
+    "mysite/assets/web/assets/mobirise-icons2/mobirise2.ttf",
+    "mysite/assets/web/assets/mobirise-icons2/mobirise2.svg",
+    "mysite/assets/web/assets/mobirise-icons2/mobirise2.eot",
+    "mysite/assets/web/assets/mobirise-icons2/mobirise2.css",
+    "mysite/assets/web/assets/mobirise-icons/mobirise-icons.woff",
+    "mysite/assets/web/assets/mobirise-icons/mobirise-icons.ttf",
+    "mysite/assets/web/assets/mobirise-icons/mobirise-icons.svg",
+    "mysite/assets/web/assets/mobirise-icons/mobirise-icons.eot",
+    "mysite/assets/web/assets/mobirise-icons/mobirise-icons.css",
+    "mysite/assets/web/assets/jquery/jquery.min.js",
+    "mysite/assets/socicon/fonts/socicon.svg",
+    "mysite/assets/images/mbr-5.png",
+    "mysite/assets/images/mbr-4.png",
+    "mysite/assets/images/free-icon-rocket-2060333-512x512.png",
+    "mysite/assets/images/free-icon-rocket-2060330-512x512.png",
+    "mysite/assets/images/fpmdfpdlm5czzoh3kwzdp6lcom-453x136.jpg",
+    "DT에 도움을 주는 소프트웨어/assets/web/assets/mobirise-icons2/mobirise2.svg",
+    "DT에 도움을 주는 소프트웨어/assets/web/assets/mobirise-icons/mobirise-icons.svg",
+    "무제 폴더/무제 파일.md",
     "챗지피티 마크다운/컴퓨팅 사고방식.md",
-    "퍼포먼스리포트/무신사 성능보고서.pdf",
-    "퍼포먼스리포트",
     "DT에 도움을 주는 소프트웨어/레코딩 소프트 웨어.md",
     "HTML/html.md",
-    "HTML",
     "크롬 해킹/크롬해킹.md",
-    "삽입된 이미지/삽입된 이미지.zip",
-    "삽입된 이미지/weights.bin",
-    "삽입된 이미지/model.json",
-    "삽입된 이미지/metadata.json",
-    "삽입된 이미지",
     "WBS의이해/4.3_LibreOffice_조건문_서식.md",
     "WBS의이해/4.2_GoogleSheet_조건문_서식.md",
     "WBS의이해/4.1_Excel_조건문_서식.md",
@@ -169,11 +177,6 @@
     "README/README.md",
     "인공지능수업/오렌지.md",
     "인공지능수업/티처블머신.md",
-    "인공지능수업/이미지/Pasted image 20240305123926.png",
-    "인공지능수업/이미지/스크린샷 2024-03-05 16.05.44.png",
-    "인공지능수업/이미지/스크린샷 2024-03-05 16.05.10.png",
-    "인공지능수업/이미지/스크린샷 2024-03-05 16.05.23.png",
-    "인공지능수업/이미지/스크린샷 2024-03-05 16.05.34.png",
     "인공지능수업/머신러닝.md",
     "웹 basic/웹의 기본.md"
   ]
